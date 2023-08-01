@@ -1,6 +1,6 @@
 
 # Hi, I'm Abdelrahman! 👋
-- 👀 I am interested in Computer Science
+- 👀 I am interested in New Technology
 - 🌱 I am currently Learning and Updating My Skills in Software Testing and Automation
 
 ## 🚀 About Me
