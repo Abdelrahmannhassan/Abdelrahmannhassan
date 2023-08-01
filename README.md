@@ -14,7 +14,7 @@ With 3+ years of experience in testing Web Applications. Following agile methodo
 
 👯‍♀️ I'm looking to collaborate on Automation Projects that Enhance my background in Automation and help me to gain more knowledge.
 
-📄 Know about my experiences ([MY RESUME](https://bit.ly/3YitfAn))
+📄 Know about my experiences ([CV](https://drive.google.com/file/d/1jxyQ95AjAUtjVKLpCQHfV939aQ_q1Zt_/view?usp=sharing))
 
 
 
