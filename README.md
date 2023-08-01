@@ -19,7 +19,7 @@ With 3+ years of experience in testing Web Applications. Following agile methodo
 
 
 ## 🛠 Skills
-Java, Selenium, Intellij IDE, Eclipse, Git, GitHub and SKDF FrameWork
+Java, JavaScript, Python, Selenium, Intellij IDE, Eclipse, Git, GitHub, SKDF FrameWork, Playwright and Robot Framework
 
 
 
