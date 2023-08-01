@@ -8,7 +8,7 @@ I'm a Test Automation Engineer working with Selenium webDriver using Java and eb
 
 With 3+ years of experience in testing Web Applications. Following agile methodologies. Working with multicultural and international teams, with great passion in automation testing and hands-on experience in creating test automation frameworks using Selenium.
 
-👩‍💻 I'm currently working on _VOIS Vodafone Intelligent Solutions
+👩‍💻 I'm currently working on RASAN
 
 🧠 I'm currently learning new functions using Selenium WebDriver and practice as much as I can.
 
