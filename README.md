@@ -1,50 +1,46 @@
-
-# Hi, I'm Abdelrahman! 👋
-- 👀 I am interested in New Technology
-- 🌱 I am currently Learning and Updating My Skills in Software Testing and Automation
+# Hi, I'm Abdelrahman 👋  
+Senior Test Automation Engineer | Web & API Automation
 
 ## 🚀 About Me
-I'm a Test Automation Engineer working with Selenium webDriver using Java and eble to learn more about tools, Frameworks, and Technologies
+I’m a Senior Test Automation Engineer with strong hands-on experience in building and maintaining automation solutions for **web applications and APIs**. I work mainly with **Java, Playwright, Selenium**, and modern testing tools to improve test coverage, reduce regression effort, and support stable, high-quality releases.
 
-With 5+ years of experience in testing Web Applications. Following agile methodologies. Working with multicultural and international teams, with great passion in automation testing and hands-on experience in creating test automation frameworks using Selenium.
+Currently, I’m contributing to large-scale production systems at **Foodics**, working closely with cross-functional teams in agile environments. I have experience across the full **SDLC and STLC**, including test planning, execution, defect management, and reporting, with a strong focus on scalable and maintainable automation frameworks.
 
-👩‍💻 I'm currently working at RASAN
+- 👨‍💻 Currently working at **Foodics**
+- 🧪 Strong experience in automation, manual, API, and integration testing
+- 📈 Focused on reliable, maintainable, and production-ready test automation
+- 🤝 Open to collaborating on automation and quality-driven projects
 
-🧠 I'm currently learning new functions using Selenium WebDriver and practice as much as I can.
-
-👯‍♀️ I'm looking to collaborate on Automation Projects that Enhance my background in Automation and help me to gain more knowledge.
-
-📄 Know more about my experiences ([Resume](https://drive.google.com/file/d/1DWuihFruNY9vVh7Gbj7yS-OOx0CiWk6O/view?usp=drive_link))
-
-
-
-## 🛠 Skills
-Java, JavaScript, Python, Selenium, Intellij IDE, Eclipse, Git, GitHub, SKDF FrameWork, Playwright and Robot Framework
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-</a> </p>
-
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qcabdo/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdelrahmann45)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdelrahmannhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmannhassan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmannhassan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📄 Learn more about my experience:  
+[Resume](https://drive.google.com/file/d/1iTCpAYlXC8OEHJ4YBzi8VRaexoTpHVvQ/view?usp=sharing)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abdelrahmannhassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack & Skills
+
+**Programming & Scripting**
+- Java, TypeScript, Python
+
+**Test Automation**
+- Selenium WebDriver  
+- Playwright  
+- Robot Framework  
+- SKDF Framework  
+
+**Testing Types**
+- Web & API Testing  
+- Regression, Smoke, Sanity  
+- Integration & Database Testing  
+
+**Tools & Platforms**
+- IntelliJ IDEA, Cursor  
+- Git, GitHub  
+- Postman  
+- LambdaTest  
+- Datadog  
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/qcabdo/
+- 💻 GitHub: https://github.com/Abdelrahmannhassan
